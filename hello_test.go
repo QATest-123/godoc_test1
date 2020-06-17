@@ -1,7 +1,9 @@
+//This is hello package1
+//This is hello package2
 package pkg
 
 import (
-	"howtogenerategodoc/hello"
+	"github.com/QATest-123/godoc_test1/hello"
 	"testing"
 )
 
